@@ -11,7 +11,6 @@ This plugin is provided "as is" without warranty of any kind. The author is not 
 ## Author Information
 
 - **Author:** Christopher S. Penn
-- **Email:** cspenn@gmail.com
 - **Website:** https://www.christopherspenn.com/
 - **Version:** 1.0.2
 - **Date:** August 10, 2025
